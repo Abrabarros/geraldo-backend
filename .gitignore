@@ -1,0 +1,28 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Diretório de build
+build/
+dist/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações do editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ambiente (.env) - Nunca versionar
+.env
+
+# Outros arquivos que não devem ser versionados
+coverage/
+tmp/
